@@ -1,0 +1,4 @@
+requests
+pyjwt
+testresources
+pymongo[aws,srv]
